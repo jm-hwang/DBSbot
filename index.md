@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 동구초등학교 방송부 챗봇 DBSbot입니다
 
 You can use the [editor on GitHub](https://github.com/jm-hwang/DBSbot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
