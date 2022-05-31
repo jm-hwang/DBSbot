@@ -1,19 +1,20 @@
 ## 동구초등학교 방송부 챗봇 DBSbot입니다
 
-You can use the [editor on GitHub](https://github.com/jm-hwang/DBSbot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+안녕하세요! 동구초등학교 방송부 학생들을 위한 DBSbot입니다
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### DBSbot의 기능
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+DBSbot은 방송부원들을 위해 개발되었습니다. 방송 일정과 방송 방법을 편리하게 확인해보세요
 
 ```markdown
-Syntax highlighted code block
+전체 메뉴는 아래와 같습니다.
 
-# Header 1
-## Header 2
-### Header 3
+# 방송일정
+요일별로 아침 음악방송 일정과 을 확인해보세요
+
+## 방송방법
+매일 아침 음악방송, 
+
 
 - Bulleted
 - List
