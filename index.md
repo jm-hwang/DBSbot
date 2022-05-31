@@ -13,26 +13,12 @@ DBSbot은 방송부원들을 위해 개발되었습니다. 방송 일정과 방�
 요일별로 아침 음악방송 일정과 을 확인해보세요
 
 ## 방송방법
-매일 아침 음악방송, 
+아침음악방송, 시종방송, 영상방송을 하는 방법을 안내합니다
 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 챗봇 만든이
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jm-hwang/DBSbot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact 
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Image](https://user-images.githubusercontent.com/56920885/171213413-d376c5eb-35a5-4ca4-a563-6d1553daf113.png)
+JM
+* 현직 초등학교 교사(goldbell2053@korea.kr)
