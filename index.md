@@ -28,3 +28,8 @@ DBSbot은 방송부원들을 위해 개발되었습니다.
 
 JM
 * 현직 초등학교 교사(goldbell2053@korea.kr)
+
+### 참고자료
+INTER-M 방송기기 이용 매뉴얼
+SOVICO 방송기기 이용 매뉴얼
+
